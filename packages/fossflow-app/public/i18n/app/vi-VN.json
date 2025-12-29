@@ -1,0 +1,62 @@
+{
+    "nav": {
+        "newDiagram": "Sơ đồ mới",
+        "saveSessionOnly": "Lưu (Chỉ phiên này)",
+        "loadSessionOnly": "Tải (Chỉ phiên này)",
+        "importFile": "Nhập tệp",
+        "exportFile": "Xuất tệp",
+        "quickSaveSession": "Lưu nhanh (Phiên bản)",
+        "serverStorage": "Lưu trữ máy chủ"
+    },
+    "status": {
+        "current": "Hiện tại",
+        "untitled": "Sơ đồ chưa đặt tên",
+        "modified": "Đã sửa đổi",
+        "sessionStorageNote": "Chỉ lưu trữ phiên - xuất để lưu vĩnh viễn"
+    },
+    "dialog": {
+        "save": {
+            "title": "Lưu sơ đồ (Chỉ phiên hiện tại)",
+            "warningTitle": "Quan trọng",
+            "warningMessage": "Bản lưu này là tạm thời và sẽ mất khi bạn đóng trình duyệt.",
+            "warningExport": "Sử dụng <strong>Xuất tệp</strong> để lưu trữ vĩnh viễn.",
+            "placeholder": "Nhập tên sơ đồ",
+            "btnSave": "Lưu",
+            "btnCancel": "Hủy"
+        },
+        "load": {
+            "title": "Tải sơ đồ (Chỉ phiên hiện tại)",
+            "noteTitle": "Ghi chú",
+            "noteMessage": "Các bản lưu này là tạm thời. Xuất sơ đồ để lưu giữ vĩnh viễn.",
+            "noSavedDiagrams": "Không tìm thấy sơ đồ nào trong phiên này",
+            "updated": "Đã cập nhật",
+            "btnLoad": "Tải",
+            "btnDelete": "Xóa",
+            "btnClose": "Đóng"
+        },
+        "export": {
+            "title": "Xuất sơ đồ",
+            "recommendedTitle": "Được đề xuất",
+            "recommendedMessage": "Đây là cách tốt nhất để lưu trữ vĩnh viễn.",
+            "noteMessage": "Tệp JSON được xuất có thể nhập lại sau hoặc chia sẻ với người khác.",
+            "btnDownload": "Tải xuống JSON",
+            "btnCancel": "Hủy"
+        },
+        "readOnly": {
+            "mode": "Chế độ chỉ xem",
+            "failed": "Không thể tải sơ đồ"
+        }
+    },
+    "alert": {
+        "enterDiagramName": "Vui lòng nhập tên sơ đồ",
+        "diagramExists": "Sơ đồ tên \"{{name}}\" đã có trong phiên này. Nó sẽ bị ghi đè. Bạn chắc chứ?",
+        "unsavedChanges": "Bạn có thay đổi chưa lưu. Tiếp tục tải?",
+        "createNewDiagram": "Tạo sơ đồ mới?",
+        "unsavedChangesExport": "Bạn có thay đổi chưa lưu. Xuất sơ đồ để lưu trước nhé. Tiếp tục?",
+        "confirmDelete": "Bạn chắc chắn muốn xóa sơ đồ này?",
+        "storageFull": "Bộ nhớ đầy! Đang mở Quản lý lưu trữ...",
+        "autoSaveFailed": "Bộ nhớ đầy! Dùng Quản lý lưu trữ để giải phóng dung lượng.",
+        "beforeUnload": "Bạn có thay đổi chưa lưu. Bạn có chắc muốn rời đi?",
+        "quotaExceeded": "Đã vượt quá hạn ngạch lưu trữ. Vui lòng xuất sơ đồ quan trọng và dọn dẹp bớt."
+    }
+}
